@@ -22,7 +22,7 @@ USERNAME = 'username'
 PASSWORD = 'password'
 ```
 
-Put your MP4 files inside `input` directory.
+Create 2 directories named `input` and `output`. Put your MP4 files inside `input` directory.
 
 Run.
 
